@@ -1,4 +1,4 @@
-% About the program%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% About the program  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % By Nian Wang & Yang Shen, 06/16/2019
 % This is an example about the 3D full waveform location method
 % used to invert a known explosive source - the Non 
@@ -27,3 +27,5 @@
 2. Plotmisfit.m
 % It shows how to make the contour plots 
 % (Figure 5b in Wang et al. (2019)) based on the misfit of P and % P coda waves in the 3D grid search region 
+
+3. Data files *.mat
