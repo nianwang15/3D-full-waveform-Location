@@ -1,0 +1,29 @@
+% About the program%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% By Nian Wang & Yang Shen, 06/16/2019
+% This is an example about the 3D full waveform location method
+% used to invert a known explosive source - the Non 
+% Proliferation Experiment at the Nevada Test Site in year 1993.
+% Refer to Wang et al. 2019 JGR (under minor revision) 
+% for details 
+
+% About the citation %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% If you are using (part of) the code, please cite at least one % of the following papers:
+% 1. N., Wang, Y., Shen, A., Flinders, W., Zhang (2016).
+%    Accurate source location from waves scattered by surface 
+%    topography. J. Geophys. Res., 121, 4538-4552.
+% 2. N., Wang, Y., Shen, X. Y., Bao, A., Flinders (2019). 
+%    Locating shallow seismic sources with waves scattered by 
+%    surface topography: validation of the method at the Nevada 
+%    Test Sites. J. Geophys. Res. (under minor revision).
+
+
+% About the details of the program%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+1. Analysemisfit.m
+% It shows how to locate the best solution 
+% and estimate the uncertainty using the misfit of P and P coda 
+% waves (Figure 5b in Wang et al. (2019)) in the 3D grid search % region 
+
+2. Plotmisfit.m
+% It shows how to make the contour plots 
+% (Figure 5b in Wang et al. (2019)) based on the misfit of P and % P coda waves in the 3D grid search region 
